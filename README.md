@@ -1,2 +1,2 @@
-# dashboard
+# nextjs-dashboard
  
